@@ -1,0 +1,20 @@
+{
+  "name": "sdarch",
+  "displayName": "SDArch — Multi-Agent Software Design & Architecture",
+  "version": "1.0.0",
+  "description": "Document-driven, memory-isolated multi-agent workflow for daily software development: Planning Agent (inspiration.md & requirements.md), Architecture Agent (architecture.md), and Review Agent quality gates.",
+  "keywords": [
+    "planning",
+    "requirements",
+    "architecture",
+    "design",
+    "review",
+    "multi-agent",
+    "workflow"
+  ],
+  "author": {
+    "name": "Mir Islam",
+    "email": "mislam@mirislam.com"
+  },
+  "license": "MIT"
+}
