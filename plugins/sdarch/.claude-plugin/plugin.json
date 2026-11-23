@@ -1,7 +1,7 @@
 {
   "name": "sdarch",
-  "version": "1.0.0",
-  "description": "Document-driven, memory-isolated multi-agent workflow for daily software development: Planning Agent (inspiration.md & requirements.md), Architecture Agent (architecture.md), and Review Agent quality gates.",
+  "version": "1.1.0",
+  "description": "Document-driven, memory-isolated multi-agent workflow for software design and codebase architecture review: Planning Agent (inspiration.md & requirements.md), Architecture Agent (architecture.md & architecture-review.md), and Review Agent quality gates.",
   "author": {
     "name": "Mir Islam",
     "email": "mislam@mirislam.com"
@@ -11,6 +11,8 @@
     "planning",
     "requirements",
     "architecture",
+    "architecture-review",
+    "code-analysis",
     "design",
     "review",
     "multi-agent"
