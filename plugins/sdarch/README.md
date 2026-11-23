@@ -62,6 +62,7 @@ sdarch/
 ├── plugin.json                        # Antigravity plugin manifest
 ├── .claude-plugin/plugin.json         # Claude Code plugin manifest
 ├── AGENTS.md                          # Universal instructions (Codex, Antigravity, etc.)
+├── LICENSE-2.0.txt                    # Apache License 2.0
 ├── commands/sdarch.md                 # /sdarch slash command (Claude Code)
 ├── agents/                            # Canonical isolated subagent definitions
 │   ├── planning-agent.md
@@ -140,3 +141,9 @@ Once `docs/architecture.md` is approved, start a fresh coding session with Codex
 ## Author
 
 **Mir Islam** — <mislam@mirislam.com>
+
+---
+
+## License
+
+This project is licensed under the Apache License, Version 2.0. See [LICENSE-2.0.txt](./LICENSE-2.0.txt) for the full license text.
